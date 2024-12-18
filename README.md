@@ -15,3 +15,6 @@ This project is designed to simulate simple bank account managment procedures wi
  - Manage loans of up to 10,000 leva with a 3% interest rate.
 
 # ⚙️ Features of the program
+1. Create Account 
+Allows users to create a new bank account.
+Stores the account holder's name, balance, transaction history, and loan information.

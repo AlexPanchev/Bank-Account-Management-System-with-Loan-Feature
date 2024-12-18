@@ -13,3 +13,5 @@ This project is designed to simulate simple bank account managment procedures wi
  - Transfer funds between accounts.
 
  - Manage loans of up to 10,000 leva with a 3% interest rate.
+
+# ⚙️ Features of the program
